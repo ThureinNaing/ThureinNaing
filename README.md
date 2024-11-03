@@ -64,7 +64,7 @@
 ---
 
 <div align="center" style="display:flex">
-  <div style="display: inline-block; width: 45%; margin-right: 2%; ">
+  <div style="display: inline-block; width:  90%; margin-right: 2%; ">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thureinnaing&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="height:200px"/>
     <img src="https://github-readme-stats.vercel.app/api?username=thureinnaing&show_icons=true&locale=en" alt="GitHub Stats" style="height:200px"/>
 
