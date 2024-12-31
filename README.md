@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Thurein Naing</h1>
-<h3 align="center">Someone trying to be a Full Stack Developer🇲🇲</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">Someone trying to be a Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thureinnaing&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
