@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Thurein Naing
 
-Full Stack Developer and Computer Engineering Student from Myanmar 🇲🇲  
+Full Stack Developer and Computer Engineering and Information Technology( CEIT ) Student from Myanmar 🇲🇲  
 Passionate about building scalable web applications and high-performance systems.
 
 <p align="left">
